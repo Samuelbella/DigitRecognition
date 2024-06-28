@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 #Importation
+=======
+
+>>>>>>> origin/julia
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
@@ -166,7 +170,10 @@ random_forest_best.fit(X_train, y_train)
 accuracy_rf_best = random_forest_best.score(X_val, y_val)
 print("Accuracy du Random Forest avec les meilleurs paramètres:", accuracy_rf_best)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/julia
 #########################
 # Utilisation des meilleurs paramètres obtenus
 best_params_svm = {'C': 10, 'gamma': 'scale', 'kernel': 'rbf'}

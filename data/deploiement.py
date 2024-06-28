@@ -53,4 +53,7 @@ prediction_svm = svm_model.predict(image_nor_reshaped)
 #print("Prediction Decision Tree:", prediction_dt)
 #print("Prediction Random Forest:", prediction_rf)
 print(prediction_svm)
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/julia
