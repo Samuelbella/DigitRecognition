@@ -9,7 +9,7 @@ Ce modèle pourra servir par exemple pour le secteur de la poste, le secteur ban
 <ol>
     <li>Récupérer le code source</li>
     <ol type="a">
-        <li>Commande : git clone https://github.com/Samuelbella/projetannuel.git</li>
+        <li>Commande : git clone https://github.com/Samuelbella/DigitRecognition</li>
     </ol>
     <li>Lancer le serveur</li>
     <ol type="a">
@@ -29,7 +29,7 @@ Ce modèle pourra servir par exemple pour le secteur de la poste, le secteur ban
 
 ## Repartition des tâches
 
-Lien Trello pour la repartition des tâches : [trello](https://trello.com/b/4DwD9kbA/projet-annuel)  
+Lien Trello pour la repartition des tâches : [trello](https://trello.com/b/lwj6X09k/digit-recognition)  
 
 ## Présentation orale
 
